@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/github/stars/Bit-Bard/404_Not_Found_Agriculture?style=flat-square&color=e8a838&label=Stars&labelColor=1a1a2e" alt="Stars">
 <img src="https://img.shields.io/badge/License-Open+Source-e8a838?style=flat-square&labelColor=1a1a2e" alt="Open Source">
 <img src="https://img.shields.io/badge/Python-3.10%2B-e8a838?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python">
-<img src="https://img.shields.io/badge/LangGraph-Agentic-AI-e8a838?style=flat-square&labelColor=1a1a2e" alt="LangGraph">
+<img src="https://img.shields.io/badge/LangGraph-Agentic+AI-e8a838?style=flat-square&labelColor=1a1a2e" alt="LangGraph">
 
 </div>
 
