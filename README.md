@@ -438,15 +438,15 @@ Weather / Tavily / OpenAI calls executing
 
 <div align="center">
 
-Built with ❤️ by **Dhruv Devaliya** & **Yash Raj**
+Built with ❤️ by **Yash Raj** & **Dhruv Devaliya**
 
 <br>
 
-| | Dhruv Devaliya | Yash Raj |
+| | Yash Raj | Dhruv Devaliya |
 |:---|:---:|:---:|
-| **GitHub** | [![GitHub](https://img.shields.io/badge/Bit--Bard-black?style=flat-square&logo=github)](https://github.com/Bit-Bard) | [![GitHub](https://img.shields.io/badge/KING--OF--FLAME-black?style=flat-square&logo=github)](https://github.com/KING-OF-FLAME) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Dhruv+Devaliya-blue?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dhruv-devaliya) | [![LinkedIn](https://img.shields.io/badge/Yash+Raj-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-developer/) |
-| **Instagram** | [![Instagram](https://img.shields.io/badge/@ohh.dhruvv_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ohh.dhruvv_/) | [![Instagram](https://img.shields.io/badge/@yash.developer-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yash.developer) |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/KING--OF--FLAME-black?style=flat-square&logo=github)](https://github.com/KING-OF-FLAME) | [![GitHub](https://img.shields.io/badge/Bit--Bard-black?style=flat-square&logo=github)](https://github.com/Bit-Bard) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Yash+Raj-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-developer/) | [![LinkedIn](https://img.shields.io/badge/Dhruv+Devaliya-blue?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dhruv-devaliya) |
+| **Instagram** | [![Instagram](https://img.shields.io/badge/@yash.developer-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yash.developer) | [![Instagram](https://img.shields.io/badge/@ohh.dhruvv_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ohh.dhruvv_/) |
 
 </div>
 
